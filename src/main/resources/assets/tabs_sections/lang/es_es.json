@@ -1,0 +1,34 @@
+{
+  "screen.tabsections.debug.title": "Debug de Tab Sections",
+  "screen.tabsections.debug.pause_button": "Debug de Tab Sections",
+  "tabsections.config.show_debug_button": "Mostrar botón de debug",
+  "screen.tabsections.debug.registered_sections": "Secciones registradas: %s",
+
+  "screen.tabsections.debug.mod_name_label": "Mod: ",
+  "screen.tabsections.debug.mod_id_label": "Mod ID: ",
+  "screen.tabsections.debug.parent_tab_label": "Tab padre: ",
+  "screen.tabsections.debug.tab_id_label": "Tab ID: ",
+  "screen.tabsections.debug.section_id_label": "ID de sección: ",
+  "screen.tabsections.debug.priority_label": "Prioridad: ",
+
+  "screen.tabsections.debug.animated_label": "Animado: ",
+  "screen.tabsections.debug.frames_label": "Frames: ",
+  "screen.tabsections.debug.frame_time_label": "Tiempo por frame: ",
+  "screen.tabsections.debug.hover_trigger_label": "Hover Trigger: ",
+
+  "screen.tabsections.debug.banner_label": "Banner:",
+  "screen.tabsections.debug.source_json_label": "JSON fuente:",
+
+  "screen.tabsections.debug.animation.no": "No",
+  "screen.tabsections.debug.animation.yes": "Sí | Frames: %s | Tiempo por frame: %s | Hover Trigger: %s",
+
+  "screen.tabsections.debug.value.yes": "Sí",
+  "screen.tabsections.debug.value.no": "No",
+
+  "screen.tabsections.debug.copy_json": "Copiar",
+
+  "screen.tabsections.config.title": "Config de Tab Sections",
+  "screen.tabsections.config.debug_button.enabled": "Botón de debug: Activado",
+  "screen.tabsections.config.debug_button.disabled": "Botón de debug: Desactivado",
+  "screen.tabsections.config.open_debug": "Abrir Debug de Tab Sections"
+}

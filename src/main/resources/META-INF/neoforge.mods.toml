@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+issueTrackerURL=""
+
+[[mods]]
+modId="tabs_sections"
+version="1.1.0"
+displayName="Creative Tabs Sections"
+logoFile="logo.png"
+authors="Ziver1246"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/creative-tabs-sections"
+description='''Adds sectioned layouts to Creative Tabs, allowing items to be grouped with headers, banners, and optional animations.'''
+
+[[mixins]]
+config="tabs_sections.mixins.json"
+
+
+[[dependencies.tabs_sections]]
+modId="neoforge"
+mandatory=true
+versionRange="[21.1.210,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.tabs_sections]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,)"
+ordering="NONE"
+side="BOTH"
