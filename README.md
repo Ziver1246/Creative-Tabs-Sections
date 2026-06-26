@@ -1,3 +1,31 @@
+# ⚠️ Deprecated / Deprecado
+
+**Creative Tab Sections is deprecated and no longer actively maintained.**
+
+This project is being replaced by **Creative Tab Layouts (CTL)**, a redesigned and more complete version focused on pages, sections, custom visuals, better API structure, and cleaner integration for mod developers.
+
+**Creative Tab Layouts is still in development**, but it is already in its final development stages. The core codebase is mostly complete, with around 90% of the system implemented. Current work is focused on small improvements, polish, fixes found during testing, documentation, and future extensibility.
+
+Please use **Creative Tab Layouts** for new projects when available.
+
+This repository remains available for reference, legacy use, and historical purposes.
+
+---
+
+**Creative Tab Sections está deprecado y ya no se mantiene activamente.**
+
+Este proyecto está siendo reemplazado por **Creative Tab Layouts (CTL)**, una versión rediseñada y más completa enfocada en páginas, secciones, visuales personalizados, mejor estructura de API e integración más limpia para desarrolladores de mods.
+
+**Creative Tab Layouts aún está en desarrollo**, pero ya se encuentra en sus etapas finales. El código principal está prácticamente completo, con aproximadamente un 90% del sistema implementado. El trabajo actual se centra en pequeñas mejoras, pulido, correcciones encontradas durante pruebas, documentación y extensibilidad futura.
+
+Usa **Creative Tab Layouts** para proyectos nuevos cuando esté disponible.
+
+Este repositorio seguirá disponible como referencia, para uso legacy y por motivos históricos.
+
+---
+
+
+
 # Creative Tab Sections
 
 Adds **sectioned layouts** to Minecraft Creative Tabs, allowing mods to group items into visually distinct categories with headers, banners, and optional animations.
